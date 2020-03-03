@@ -24,4 +24,6 @@
     'installable': True,
     'auto_install': False,
     'application': True,
+    'price': 5,
+    'currency': 'USD',
 }
